@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f7fa;
+}
+
+.app {
+  text-align: center;
+  padding: 50px;
+}
+
+.app h1 {
+  color: #2563eb;
+  font-size: 48px;
+  margin-bottom: 20px;
+}
+
+.app p {
+  font-size: 20px;
+  color: #666;
+}
+
+.status {
+  margin-top: 40px;
+  padding: 20px;
+  background: white;
+  border-radius: 12px;
+  display: inline-block;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
